@@ -1,0 +1,29 @@
+#perfil {
+    max-width: 100%;
+    height: auto;
+    width: 250px;
+    border: 1px solid cornflowerblue;
+
+}
+
+
+
+
+h1 {
+    margin-top: 20px;
+    
+
+}
+
+li {
+    
+    padding: 0.8em;
+    border: 1px solid ghostwhite;
+    margin: 10px;
+    padding-left: 1%;
+    text-align: left;
+}
+
+body {
+    background-color: white;
+}
