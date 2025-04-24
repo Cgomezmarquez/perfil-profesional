@@ -1,4 +1,4 @@
-# Inventia literaria
+# Perfil-profesional
 Proyecto web creado con HTML, CSS y Bootstrap para mostrar de manera profesional mi perfil. 
 
 # Tecnologías utilizadas
@@ -9,7 +9,8 @@ Proyecto web creado con HTML, CSS y Bootstrap para mostrar de manera profesional
 # Objetivo
 Mostrar de forma clara mis fortalezas, capacidades, habilidades y proyectos a posibles empleadores.  
 
-# las capturas se muestran en ordén  como está organizado el perfil
+# Capturas de pantalla
+A continuación se muestran las capturas de pantallas organizadas según el perfil.
 
 # Captura 1
 ![Inicio](static/img/captura1.png)
@@ -30,7 +31,7 @@ Mostrar de forma clara mis fortalezas, capacidades, habilidades y proyectos a po
 ![footer](static/img/captura6.png)
 
 # Cómo ver el sitio
-solo tienes que abrir el archivo index.html
+solo tienes que abrir el archivo index.html en tu navegador
 
 # Autor
 
